@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|c:\\rutvik\\asp.net web api\\aspnetfirstwebapi\\aspnetfirstwebapi\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|solutionrelative:aspnetfirstwebapi\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|c:\\rutvik\\asp.net web api\\aspnetfirstwebapi\\aspnetfirstwebapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|solutionrelative:aspnetfirstwebapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|c:\\rutvik\\asp.net web api\\aspnetfirstwebapi\\aspnetfirstwebapi\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|solutionrelative:aspnetfirstwebapi\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|c:\\rutvik\\asp.net web api\\aspnetfirstwebapi\\aspnetfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|solutionrelative:aspnetfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|c:\\rutvik\\asp.net web api\\aspnetfirstwebapi\\aspnetfirstwebapi\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|solutionrelative:aspnetfirstwebapi\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|c:\\rutvik\\asp.net web api\\aspnetfirstwebapi\\aspnetfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|solutionrelative:aspnetfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|c:\\rutvik\\asp.net web api\\aspnetfirstwebapi\\aspnetfirstwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C5FE0FB6-23F2-404D-B5AD-995EBCE58242}|AspNetFirstWebApi\\AspNetFirstWebApi.csproj|solutionrelative:aspnetfirstwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -46,23 +54,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateStockRequestDto.cs",
-              "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "RelativeDocumentMoniker": "AspNetFirstWebApi\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "ToolTip": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "RelativeToolTip": "AspNetFirstWebApi\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T10:50:07.906Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "AspNetFirstWebApi\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "AspNetFirstWebApi\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:22:04.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StockMappers.cs",
               "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Mappers\\StockMappers.cs",
               "RelativeDocumentMoniker": "AspNetFirstWebApi\\Mappers\\StockMappers.cs",
@@ -70,11 +83,12 @@
               "RelativeToolTip": "AspNetFirstWebApi\\Mappers\\StockMappers.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAowB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T08:55:26.494Z"
+              "WhenOpened": "2024-10-20T08:55:26.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StockDto.cs",
               "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Dtos\\Stock\\StockDto.cs",
               "RelativeDocumentMoniker": "AspNetFirstWebApi\\Dtos\\Stock\\StockDto.cs",
@@ -82,17 +96,18 @@
               "RelativeToolTip": "AspNetFirstWebApi\\Dtos\\Stock\\StockDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T08:52:47.264Z"
+              "WhenOpened": "2024-10-20T08:52:47.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StockController.cs",
               "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Controllers\\StockController.cs",
               "RelativeDocumentMoniker": "AspNetFirstWebApi\\Controllers\\StockController.cs",
               "ToolTip": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Controllers\\StockController.cs",
               "RelativeToolTip": "AspNetFirstWebApi\\Controllers\\StockController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAADwv0sAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T08:34:39.298Z",
               "EditorCaption": ""
@@ -100,6 +115,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetFirstWebApi\\Program.cs",
+              "ToolTip": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Program.cs",
+              "RelativeToolTip": "AspNetFirstWebApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T07:08:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "AspNetFirstWebApi\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "AspNetFirstWebApi\\Repository\\StockRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:26:34.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Data\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "AspNetFirstWebApi\\Data\\ApplicationDBContext.cs",
@@ -112,6 +153,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "CreateStockRequestDto.cs",
+              "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "AspNetFirstWebApi\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ToolTip": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeToolTip": "AspNetFirstWebApi\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:50:07.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "AspNetFirstWebApi\\appsettings.json",
@@ -123,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "AspNetFirstWebApi\\Models\\Comment.cs",
@@ -135,19 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "AspNetFirstWebApi\\Program.cs",
-              "ToolTip": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Program.cs",
-              "RelativeToolTip": "AspNetFirstWebApi\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T07:08:05.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Stock.cs",
               "DocumentMoniker": "C:\\Rutvik\\Asp.net Web API\\AspNetFirstWebApi\\AspNetFirstWebApi\\Models\\Stock.cs",
               "RelativeDocumentMoniker": "AspNetFirstWebApi\\Models\\Stock.cs",
@@ -156,10 +197,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T07:15:40.491Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
